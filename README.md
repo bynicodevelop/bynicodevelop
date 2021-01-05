@@ -8,7 +8,7 @@ Et bien tu peux avec ta home page personnalisé sur ton profil Github.
 
 Comme tu le vois actuellement.
 
-Tu veux d'autres astuces ?
+### Tu veux d'autres astuces ?
 
 Je joins moi sur ma chaine ici 👉 [Nico Develop](https://bit.ly/3jSPlFi)
 
