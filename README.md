@@ -12,6 +12,9 @@ Comme tu le vois actuellement.
 
 Je joins moi sur ma chaine ici 👉 [Nico Develop](https://bit.ly/3jSPlFi)
 
+![Nico Develop's Github stats](https://github-readme-stats.vercel.app/api?username=bynicodevelop)
+
+
 <!--
 **bynicodevelop/bynicodevelop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
