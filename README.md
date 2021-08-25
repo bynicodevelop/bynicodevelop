@@ -2,7 +2,7 @@
 
 Tu veux une astuce ?
 
-Si tu créer un repo avec ton nom d'utilisateur et que tu y ajoutes un README,
+Si tu crées un repo avec ton nom d'utilisateur et que tu y ajoutes un README,
 
 Et bien tu peux avec ta home page personnalisé sur ton profil Github.
 
@@ -14,7 +14,6 @@ Comme tu le vois actuellement.
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Rafa-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Rafa-firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg">
   <img align="center" alt="Rafa-nuxtjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">
 </div>
 
